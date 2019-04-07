@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+result.json
+.idea
+config.js
